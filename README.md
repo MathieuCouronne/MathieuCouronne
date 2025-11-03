@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My own website**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development and game development**
 
 - 📫 How to reach me **mathieu.couronne@epitech.eu**
 
